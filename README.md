@@ -70,6 +70,7 @@ It contains open source operating sytems and hobby operating systems as one can 
 * [Fern-Night](https://github.com/CorruptedByCPU/Fern-Night/) - C language operating system (related to [Cyjon](https://github.com/CorruptedByCPU/Cyjon/) project).
 * [HalideOS](https://dsc-kiit.github.io/project-halide/) - experimental operating system written entirely from scratch.
 * [hydrogen](https://github.com/mszoek/hydrogen) - toy OS. 64-bit, preemptive multitasking kernel supporting EFI, PCIe, SATA, framebuffer graphics mode, HFS+.
+* [Ironclad](https://www.nongnu.org/ironclad/) - Ironclad is a partially formally verified kernel with a small footprint for general-purpose and embedded OSes, written in SPARK and Ada. 
 * [JSD-OS](https://github.com/pgrAm/JSD-OS) - A small operating system for 32 bit x86.
 * [KripayaOS](https://github.com/Kridar/KripayaOS) - x86 Kernel with it's own bootloader.
 * [KolibriOS](http://www.kolibrios.org) - MenuetOS fork
